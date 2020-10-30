@@ -36,7 +36,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
+<p align="left">
 <a href="https://www.iniherly.xyz" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.iniherly.xyz-red?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/anandmainali/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@herlycp-red?style=flat&logo=linkedin"></a>
 <a href="mailto:mbahcip00@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mbahcip00@gmail.com-red?style=flat&logo=gmail"></a>
