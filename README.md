@@ -27,7 +27,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Github Stats
 
-[![Herly Chahya GitHub Stats](https://github-readme-stats.vercel.app/api?username=ncip48&show_icons=true&count_private=true)](https://github.com/ncip48)
+[![Herly Chahya GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilgkrishnan&layout=compact&hide=html)](https://github.com/ncip48) [![Herly Chahya GitHub Stats](https://github-readme-stats.vercel.app/api?username=ncip48&show_icons=true&count_private=true)](https://github.com/ncip48)
 
 ### Github Repos
 
