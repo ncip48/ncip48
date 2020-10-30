@@ -3,11 +3,9 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I'm [Anand K. Mainali](https://anandmainali.com.np)
-> Software Engineer at [SoftNEP](https://softnep.com)
+### Hi there 👋 I'm [Herly Chahya Putra](http://iniherly.xyz)
 
-
-<img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
+<img src="https://komarev.com/ghpvc/?username=ncip48" alt="ncip48" />
 
 <div>
  <p>
@@ -29,20 +27,17 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Github Stats
 
-[![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=ncip48&show_icons=true&count_private=true)](https://github.com/anandmainali)
+[![Herly Chahya GitHub Stats](https://github-readme-stats.vercel.app/api?username=ncip48&show_icons=true&count_private=true)](https://github.com/ncip48)
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=PackageTemplate&show_owner=true)](https://github.com/anandmainali/PackageTemplate)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=Foods-Ecommerce&show_owner=true)](https://github.com/anandmainali/Foods-Ecommerce)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ncip48&repo=DW18RJXC7_library&show_owner=true)](https://github.com/ncip48/DW18RJXC7_library)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ncip48&repo=DW18RJXC7_literature&show_owner=true)](https://github.com/ncip48/DW18RJXC7_literature)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.anandmainali.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/anandmainali/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
-<a href="mailto:anandmainali5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="https://www.iniherly.xyz" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.iniherly.xyz-red?style=flat&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/anandmainali/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@herlycp-red?style=flat&logo=linkedin"></a>
+<a href="mailto:mbahcip00@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mbahcip00@gmail.com-red?style=flat&logo=gmail"></a>
 </p>
-
-
-⭐️ From [@anandmainali](https://github.com/anandmainali)
